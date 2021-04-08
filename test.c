@@ -9,8 +9,6 @@ int main()
 	printf("jjjj");
 	printf("jjjj");
 	printf("jjjj");
-	printf("jjjj");
-	printf("jjjj");
 	printf("testiiiiiii");
 	printf("jjjj");
 	printf("test......");
