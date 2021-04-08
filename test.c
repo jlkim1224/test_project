@@ -6,5 +6,8 @@ int main()
 {
 	//test
 	printf("jjjj");
+	printf("jjjj");
+	printf("jjjj");
+	printf("jjjj");
 	return 0;
 }
