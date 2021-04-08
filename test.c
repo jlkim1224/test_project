@@ -12,5 +12,6 @@ int main()
 	printf("testiiiiiii");
 	printf("jjjj");
 	printf("test......");
+	jinlong
 	return 0;
 }
