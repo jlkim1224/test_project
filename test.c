@@ -12,6 +12,6 @@ int main()
 	printf("testiiiiiii");
 	printf("jjjj");
 	printf("test......");
-	jinlong
+	asdfas
 	return 0;
 }
