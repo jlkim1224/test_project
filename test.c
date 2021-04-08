@@ -7,11 +7,6 @@ int main()
 	//test
 	printf("jjjj");
 	printf("jjjj");
-	printf("jjjj");
-	printf("jjjj");
-	printf("testiiiiiii");
-	printf("jjjj");
-	printf("test......");
-	asdfas
+	printf("esdfsef");
 	return 0;
 }
